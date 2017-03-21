@@ -1,0 +1,28 @@
+{
+  "departure": {
+    "date": "2002-09-24",
+    "time": "09:00:00"
+  },
+  "cabinclass": "Economy",
+  "passengers": [
+    {
+      "name": "Ferdinand Freibeuter",
+      "country": "de",
+      "Packages": false,
+      "sex": "male"
+    },
+    {
+      "name": "Karla Kauftgern",
+      "country": "at",
+      "Packages": true,
+      "sex": "female"
+    }
+  ],
+  "destinationplace": "MUC",
+  "arrival": {
+    "date": "2002-09-24",
+    "time": "20:00:00"
+  },
+  "originplace": "TXL",
+  "price": 202.22
+}

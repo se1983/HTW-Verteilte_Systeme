@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<booking xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="./planeSchmaUniVS.xsd">
+
+    <originplace>TXL</originplace>
+    <destinationplace>MUC</destinationplace>
+
+    <departure>
+        <date>2002-09-24</date>
+        <time>09:00:00</time>
+    </departure>
+    
+    
+    <arrival>
+        <date>2002-09-24</date>
+        <time>10:00:00</time>
+    </arrival>
+    
+    
+    <passengers>
+        <passenger>
+            <sex>male</sex>
+            <country>de</country>
+            <packages>false</packages>
+            <name>Ferdinand Freibeuter</name>
+        </passenger>
+        
+        <passenger>
+            <sex>female</sex>
+            <country>at</country>
+            <packages>true</packages>
+            <name>Karla Kauftgern</name>
+        </passenger>
+        
+    </passengers>
+    
+    <cabinclass>Economy</cabinclass>
+    
+    <price>202.22</price>
+</booking>
